@@ -247,6 +247,7 @@ min
 minigalaxy
 minikube
 mise
+mongodb-compass
 motrix
 mpdevil
 mpris-miniplayer
@@ -350,6 +351,7 @@ rstudio-server
 rustconn
 rustdesk
 schildichat-desktop
+scrinio
 sejda-desktop
 sendworm
 session-desktop
